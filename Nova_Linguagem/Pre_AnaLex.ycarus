@@ -1,0 +1,14 @@
+@
+Texto aux = "a  aa ";
+
+// Teste Comentario 
+classe publica Novo_Codigo{
+
+    funcao publica Novo_Codigo(){
+        inteiro numero1 = 5;
+        inteiro numero2 = 10;
+        intero soma = numero1 + numero3;
+
+        imprimir(soma);
+    }
+}
